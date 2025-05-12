@@ -26,9 +26,6 @@ A lightweight voxel engine built in C++ and OpenGL—my playground for learning 
 
 <p align="center">
   <a href="https://github.com/Leocrabe225">
-    <img src="https://github-readme-stats.vercel.app/api?username=Leocrabe225&show_icons=true&theme=radical&hide_border=true" alt="Léo’s GitHub Stats" />
-  </a>
-  <a href="https://github.com/Leocrabe225">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leocrabe225&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
