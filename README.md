@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/leocrabe225/leocrabe225/main/readme_header.png" alt="Leo Calendini" />
-</p>
-
 # Hi there, I’m Léo Calendini ([@Leocrabe225](https://github.com/Leocrabe225))  
 **Passionate Low Level & Systems Programmer**  
 
